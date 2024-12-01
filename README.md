@@ -10,5 +10,5 @@ Q: Are you in active development of a project?
 A: Yes, the repo is currently private though
 ---------------------------------------------------
 Q: What languages do you code in??!!
-A: Mainly C++, C, and soon to be Java (I am not good at these languages so do not expect much)
+A: Mainly C++, C, and soon to be kotlin (I am not good at these languages so do not expect much)
 ------------------------------------------------------
