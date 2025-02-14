@@ -1,7 +1,7 @@
 Q & A (i am totally quirky and different)
 ----------------------------------------------
 Q: What do you do exactly
-A: School, Osu!, Geometry Dash, "Code", and Linux.
+A: Fun things (like what : NONE OF YOUR BUSINESS)
 ------------------------------------------------------
 Q: Do you go by any pronouns
 A: He/Him if it means that much to you
