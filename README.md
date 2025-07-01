@@ -4,7 +4,8 @@
 
 # About me:
  I've been developing software for 2 years and I really like art (music, paintings, and sometimes video games.), I also like Cats.
- The current languages I know are:
+ 
+ Languages I currently know are:
   * C
   * C++
   * Typescript
