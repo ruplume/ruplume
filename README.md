@@ -9,6 +9,7 @@
   * C++
   * Typescript
   * CSS
+
  Languages I'm currently learning:
   * Python
   * Kotlin
