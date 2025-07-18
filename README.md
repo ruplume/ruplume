@@ -12,6 +12,6 @@
   * CSS
 
  Languages I'm currently learning:
-  * Python
+  * Lua
   * Kotlin
   
