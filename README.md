@@ -3,7 +3,8 @@
  Check out my pinned repos, you might like them.
 
 # About me:
- I've been developing software for 2 years and I really like art (music, paintings, and sometimes video games.), I also like Cats.
+ I've been developing software for 2 years and I really like art.
+ I like cats as well
  
  Languages I currently know are:
   * C
